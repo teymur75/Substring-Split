@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.exe
+C:\Users\HP\source\repos\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.deps.json
+C:\Users\HP\source\repos\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.runtimeconfig.json
+C:\Users\HP\source\repos\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.runtimeconfig.dev.json
+C:\Users\HP\source\repos\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.dll
+C:\Users\HP\source\repos\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.pdb
+C:\Users\HP\source\repos\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.AssemblyInfo.cs
+C:\Users\HP\source\repos\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.dll
+C:\Users\HP\source\repos\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.pdb
+C:\Users\HP\source\repos\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.genruntimeconfig.cache
